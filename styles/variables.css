@@ -1,6 +1,6 @@
 :root {
-  --main-font: "Inter", sans-serif;
-  --accent-font: "PressStart2P", sans-serif;
+  --main-font: "Inter-Variable", sans-serif;
+  --accent-font: "PressStart2P", fantasy;
   --main-font-weight: 410;
   --title-font-weight: 715;
   --bg-image: repeating-linear-gradient(to right,#d3d3d3 0 2px, transparent 2px 4px),
@@ -11,4 +11,5 @@
   --accent-color: #000;
   --contour-color: #000;
   --heart-color: #FF0000;
+  --border-color: #000;
 }
