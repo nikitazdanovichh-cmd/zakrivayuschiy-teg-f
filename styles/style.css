@@ -6,7 +6,7 @@
   background-image: var(--bg-image);
   background-attachment: fixed;
   background-size: cover;
-  background-position: center;
+  background-position: center
 }
 
 .content-section {
